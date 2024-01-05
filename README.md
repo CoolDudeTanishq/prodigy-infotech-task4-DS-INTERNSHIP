@@ -1,6 +1,6 @@
 # prodigy-infotech-task4-DS-INTERNSHIP
 
-Successfully completed hashtag#task4 of my Data Science Internship at Prodigy InfoTech! 🎯
+Successfully completed task4 of my Data Science Internship at Prodigy InfoTech! 🎯
 
 Task 4: Analyzing and visualizing sentiment patterns in social media data.
 
